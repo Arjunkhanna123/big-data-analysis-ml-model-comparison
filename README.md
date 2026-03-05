@@ -4,10 +4,10 @@
 This project focuses on performing data analysis and implementing multiple machine learning models to compare their performance on the same dataset. The experiments were conducted using Google Colab.
 
 ## Models Implemented
-- Model 1
-- Model 2
-- Model 3
-- Model 4
+- Model 1  Logistic Regression
+- Model 2  Random Forest 
+- Model 3  XG Boost
+- Model 4  Multinominal Naive Bayes
 
 ## Technologies Used
 - Python
